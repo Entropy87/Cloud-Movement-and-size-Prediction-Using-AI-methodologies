@@ -1,0 +1,10 @@
+#val: C:/Users/thami/Documents/Year 4/Investigation/final-deliverables/Dataset/valid/images
+val: C:/Users/thami/Documents/Year 4/Investigation/final-deliverables/Dataset/test/images 
+
+train: C:/Users/thami/Documents/Year 4/Investigation/final-deliverables/Dataset/train/images
+
+# Number of classes
+nc: 1
+
+# Class names
+names: [ 'Cloud']
